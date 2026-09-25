@@ -13,9 +13,7 @@
   <sub>— Vincent, <strong>Gattaca</strong> (1997)</sub>
 </p>
 
-<p align="center"><sub>🔊 <strong>the same scene, with sound</strong> · press play</sub></p>
-
-https://github.com/user-attachments/assets/8a777a5e-21ac-400a-9128-bad70061d9e3
+https://github.com/user-attachments/assets/abeb1fd3-5c8f-4e50-94c7-e3ec3768926d
 
 <br>
 

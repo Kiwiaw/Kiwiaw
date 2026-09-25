@@ -8,7 +8,12 @@
   </a>
 </p>
 
+<details>
+<summary>🔊 <strong>sound</strong></summary>
+
 https://github.com/user-attachments/assets/9cc32319-3e3d-4257-a2c3-598d50e64f0a
+
+</details>
 
 <br>
 

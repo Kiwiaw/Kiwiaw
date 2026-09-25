@@ -57,7 +57,7 @@ I left school early to teach myself maths and CS, and got into TU Delft through 
 <details open>
 <summary>🔊 <strong>sound</strong></summary>
 
-https://github.com/user-attachments/assets/537889ad-feef-4cbd-b1c7-34f5c37ac093
+https://github.com/user-attachments/assets/150906a1-fffb-4d33-ae84-ab2eeaa036e4
 
 </details>
 

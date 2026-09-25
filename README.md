@@ -8,11 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <em>“I never saved anything for the swim back.”</em><br>
-  <sub>— Vincent, <strong>Gattaca</strong> (1997)</sub>
-</p>
-
 https://github.com/user-attachments/assets/9cc32319-3e3d-4257-a2c3-598d50e64f0a
 
 <br>

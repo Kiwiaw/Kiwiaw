@@ -13,16 +13,6 @@
   <sub>— Vincent, <strong>Gattaca</strong> (1997)</sub>
 </p>
 
-<details>
-<summary>🔊 <strong>Play it with sound</strong></summary>
-<br>
-
-https://github.com/Kiwiaw/Kiwiaw/releases/download/media/swim-back.mp4
-
-<video src="https://github.com/Kiwiaw/Kiwiaw/releases/download/media/swim-back.mp4" controls width="100%"></video>
-
-</details>
-
 <br>
 
 ### Hello, I'm Kinga

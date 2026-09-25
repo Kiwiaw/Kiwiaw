@@ -1,39 +1,89 @@
 <p align="center">
-  <img src="assets/header.svg" alt="KINGA — sequence: in-valid, status: swimming anyway" width="100%"/>
+  <img src="assets/header.svg" alt="KINGA. Sequence: in-valid, status: swimming anyway" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=GM-znjDGubE&t=218s" title="Watch the scene with sound (3:38)">
-    <img src="assets/swim-back.gif" alt="Gattaca — the swim" width="100%"/>
+    <img src="assets/swim-back.gif" alt="Gattaca, the swim" width="100%"/>
   </a>
 </p>
 
-<details>
+<br>
+
+**Computer vision researcher** · BSc Computer Science & Engineering, TU Delft
+<br><sub>Keypoints, matching and camera pose, mostly where GPS does not reach: drones, the Moon, other people's models.</sub>
+
+<table>
+<tr>
+<td width="27%" valign="top">
+<b>🏔️ ETH Zürich</b><br>
+<sub>Computer Vision and Geometry Group<br>research intern · since July 2026</sub>
+</td>
+<td valign="top">
+Prof. Marc Pollefeys' group, supervised by Philipp Lindenberger. Keypoint detection and uncertainty for more reliable camera pose: a new training objective for a learned detector, built on the group's <b>RaCo</b> (3DV 2026) and evaluated on HPatches, MegaDepth, ScanNet and ETH3D on the <b>Euler</b> cluster. Preprint in preparation.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>🌙 ESA ESTEC</b><br>
+<sub>GNC section<br>April to June 2026</sub>
+</td>
+<td valign="top">
+Cross-modal feature matching, event camera to optical imagery, for terrain-relative navigation in lunar landings. Test scenarios built in the <b>PANGU</b> simulator.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>🛸 Scaled Autonomy</b><br>
+<sub>computer vision engineer<br>December 2025 to June 2026</sub>
+</td>
+<td valign="top">
+Drone-to-satellite image registration for GPS-denied flight. <b>LoFTR</b> plus Fourier-Mellin matching, four times the baseline inlier ratio on real flight data.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>🎓 TU Delft</b><br>
+<sub>BSc CSE, multimedia variant<br>GPA 8.0</sub>
+</td>
+<td valign="top">
+Computer vision and ML track. Real-time multi-camera 3D drone tracking, part-time ML engineer at <b>Dream Team Epoch</b>, former board member of the debating club.
+</td>
+</tr>
+</table>
+
+I left school early to teach myself maths and CS, and got into TU Delft through an independent entrance exam. I like opening models up and watching what breaks. Tea is always on.
+
+<details open>
 <summary>🔊 <strong>sound</strong></summary>
 
 https://github.com/user-attachments/assets/537889ad-feef-4cbd-b1c7-34f5c37ac093
 
 </details>
 
-<br>
-
-### Hello, I'm Kinga
-
-**Computer vision researcher · BSc Computer Science & Engineering, TU Delft**
-
-**ETH Zürich, Computer Vision and Geometry Group** (Prof. Marc Pollefeys) — research intern since July 2026, supervised by Philipp Lindenberger. I work on keypoint detection and uncertainty for more reliable camera pose estimation, building on the group's **RaCo** detector (3DV 2026): a new training objective for a learned detector, evaluated on HPatches, MegaDepth, ScanNet and ETH3D on the **Euler** cluster. Preprint in preparation.
-
-**ESA ESTEC, GNC section** (Apr–Jun 2026) — cross-modal feature matching, event camera to optical imagery, for terrain-relative navigation in lunar landings. Test scenarios built in the PANGU simulator.
-
-**Scaled Autonomy** (Dec 2025–Jun 2026) — drone-to-satellite image registration for GPS-denied flight: LoFTR and Fourier–Mellin matching, 4× the baseline inlier ratio on real flight data.
-
-**TU Delft** — CSE bachelor, multimedia variant (computer vision and ML), GPA 8.0. Real-time multi-camera 3D drone tracking, licence-plate recognition, part-time ML engineer at Dream Team Epoch, former board member of the debating club.
-
-I left school early to teach myself maths and CS, and got into TU Delft through an independent entrance exam. I like opening models up and watching what breaks. Tea is always on.
-
 ## 🫖 The Tea Party · projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🐦‍⬛ <a href="https://github.com/Kiwiaw/arcAgi">ARC-AGI</a></h3>
+
+Playing with the **Abstraction and Reasoning Corpus**: tiny grid puzzles that humans solve at a glance and machines still find maddening.
+
+<a href="https://github.com/Kiwiaw/arcAgi"><img src="https://img.shields.io/badge/View%20project-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚗 <a href="https://github.com/Kiwiaw/projIP">License plate recognition</a></h3>
+
+TU Delft image processing project, team lead. **Python/OpenCV** pipeline: plate localisation, character segmentation, SVM recognition, automated evaluation in CI.
+
+<a href="https://github.com/Kiwiaw/projIP"><img src="https://img.shields.io/badge/View%20project-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -51,46 +101,6 @@ I left school early to teach myself maths and CS, and got into TU Delft through 
 Camera calibration from scratch: **Direct Linear Transform** with Hartley normalisation and non-linear refinement. Just Python and NumPy, no black boxes.
 
 <a href="https://github.com/Kiwiaw/dlt_with_optimisation"><img src="https://img.shields.io/badge/View%20project-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🚗 <a href="https://github.com/Kiwiaw/projIP">License plate recognition</a></h3>
-
-TU Delft image processing project, team lead. **Python/OpenCV** pipeline: plate localisation, character segmentation, SVM recognition, automated evaluation in CI. Graded 8.5/10.
-
-<a href="https://github.com/Kiwiaw/projIP"><img src="https://img.shields.io/badge/View%20project-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🏔️ <a href="https://github.com/Kiwiaw/3DV_euler">3DV on Euler</a></h3>
-
-Install scripts for 3D vision libraries (COLMAP, hloc and friends) on the **ETH Euler** cluster, so the next person doesn't lose a week to module hell.
-
-<a href="https://github.com/Kiwiaw/3DV_euler"><img src="https://img.shields.io/badge/View%20project-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🐦‍⬛ <a href="https://github.com/Kiwiaw/arcAgi">ARC-AGI</a></h3>
-
-Playing with the **Abstraction and Reasoning Corpus**: tiny grid puzzles that humans solve at a glance and machines still find maddening.
-
-<a href="https://github.com/Kiwiaw/arcAgi"><img src="https://img.shields.io/badge/View%20project-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧊 <a href="https://github.com/Kiwiaw/FridgeApp">FridgeApp</a></h3>
-
-Full-stack **React Native + Node.js + MongoDB** app for keeping track of what's in the fridge before it becomes a science project.
-
-<a href="https://github.com/Kiwiaw/FridgeApp"><img src="https://img.shields.io/badge/View%20project-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 </td>
 </tr>

@@ -10,21 +10,20 @@
 
 <p align="center">
   <em>“I never saved anything for the swim back.”</em><br>
-  <sub>— Vincent, <strong>Gattaca</strong> (1997) · <a href="https://www.youtube.com/watch?v=GM-znjDGubE&t=218s">▶ watch with sound</a></sub>
+  <sub>— Vincent, <strong>Gattaca</strong> (1997)</sub>
 </p>
 
+<details>
+<summary>🔊 <strong>Play it with sound</strong></summary>
 <br>
 
-<table>
-<tr>
-<td width="34%" align="center" valign="middle">
+https://github.com/Kiwiaw/Kiwiaw/releases/download/media/swim-back.mp4
 
-<img src="https://github.com/Kiwiaw.png?size=480" alt="Kinga" width="240"/>
+<video src="https://github.com/Kiwiaw/Kiwiaw/releases/download/media/swim-back.mp4" controls width="100%"></video>
 
-<sub><em>“Why is a raven like a writing-desk?”</em><br>still working on it.</sub>
+</details>
 
-</td>
-<td width="66%" valign="top">
+<br>
 
 ### Hello, I'm Kinga
 
@@ -39,10 +38,6 @@
 **TU Delft** — CSE bachelor, multimedia variant (computer vision and ML), GPA 8.0. Real-time multi-camera 3D drone tracking, licence-plate recognition, part-time ML engineer at Dream Team Epoch, former board member of the debating club.
 
 I left school early to teach myself maths and CS, and got into TU Delft through an independent entrance exam. I like opening models up and watching what breaks. Tea is always on.
-
-</td>
-</tr>
-</table>
 
 ## 🫖 The Tea Party · projects
 

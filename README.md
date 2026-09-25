@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/537889ad-feef-4cbd-b1c7-34f5c37ac093
 
 <h3>🐦‍⬛ <a href="https://github.com/Kiwiaw/arcAgi">ARC-AGI</a></h3>
 
-Playing with the **Abstraction and Reasoning Corpus**: tiny grid puzzles that humans solve at a glance and machines still find maddening.
+The **Abstraction and Reasoning Corpus**: tiny grid puzzles that humans solve at a glance and machines still find maddening. I trained a small GPT-2 from scratch on grids serialised into a 14-token vocabulary, with D8 symmetry and colour-permutation augmentation. It learns the textures and gets the grid shape wrong, which is the whole problem in one line.
 
 <a href="https://github.com/Kiwiaw/arcAgi"><img src="https://img.shields.io/badge/View%20project-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 
@@ -116,7 +116,7 @@ Camera calibration from scratch: **Direct Linear Transform** with Hartley normal
 
 </details>
 
-## 🧰 In my hat
+## 🎩 In my hat
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-2E1628?style=for-the-badge&logo=python&logoColor=EFE3C8">

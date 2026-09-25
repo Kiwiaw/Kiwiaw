@@ -53,7 +53,6 @@ Computer vision and ML track. Real-time multi-camera 3D drone tracking, part-tim
 </table>
 
 I left school early to teach myself maths and CS, and got into TU Delft through an independent entrance exam. 
- 
 Tea is always on.
 
 <details open>

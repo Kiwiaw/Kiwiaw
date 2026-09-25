@@ -11,7 +11,7 @@
 <details>
 <summary>🔊 <strong>sound</strong></summary>
 
-https://github.com/user-attachments/assets/9cc32319-3e3d-4257-a2c3-598d50e64f0a
+https://github.com/user-attachments/assets/556f711e-8b1b-4c16-9799-acceb9a859a4
 
 </details>
 
